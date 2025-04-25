@@ -1,4 +1,4 @@
-# Hi 👋, I'm Francesco Lepre
+# Hi, I'm Francesco Lepre 👋
 
 ## Automation Engineering and Robotics student
 
