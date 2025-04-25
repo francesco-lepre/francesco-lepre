@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋, I'm Francesco Lepre
+
+## Automation Engineering and Robotics student
 
 <!--
 **francesco-lepre/francesco-lepre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
