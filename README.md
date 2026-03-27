@@ -3,7 +3,7 @@
 ## Automation Engineering and Robotics student
 
 <!--
-**francesco-lepre/francesco-lepre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fnclpr/fnclpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
